@@ -11,7 +11,10 @@ __pycache__/
 *.so
 
 # Ignore NorGPT_conv directory and its contents
-NorGPT_conv/
+Basemodel_3B
+Basemodel_369M
+Convmodel_3B
+Convmodel_369M
 
 # Ignore specific files in NorGPT_conv directory
 NorGPT_conv/adapter_config.json
