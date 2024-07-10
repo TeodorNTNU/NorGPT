@@ -10,6 +10,8 @@ __pycache__/
 # C extensions
 *.so
 
+django_NorGPT_app/
+
 # Ignore NorGPT_conv directory and its contents
 Basemodel_3B
 Basemodel_369M
@@ -24,6 +26,8 @@ NorGPT_conv/adapter_model (1).bin
 
 # Ignore NorGPT_base directory and its contents
 NorGPT_base/
+Instmodel_369M/
+Instmodel_369M
 
 # Ignore specific files in NorGPT_base directory
 NorGPT_base/config.json
